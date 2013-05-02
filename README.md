@@ -1,6 +1,8 @@
 ## Play-JSON from Playframework 2.2-SNAPSHOT
 
-This is just a copy-paste backport of JSON macros from Play 2.2-SNAPSHOT. Version 2.1 has some issues with companion objects for your case classes. This is interopable with 2.1's JSON framework. 
+This is just a copy-paste backport of JSON macros from Play 2.2-SNAPSHOT. Version 2.1.0 has some issues with companion objects for your case classes. This is interopable with 2.1's JSON framework. 
+
+**NOTE** You should be using Play 2.1.1 which fixed those issues.
 
 ### Usage 
 Build configuration
